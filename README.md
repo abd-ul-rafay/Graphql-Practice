@@ -1,3 +1,10 @@
 # GraphQL Practice
 
-Practiced GraphQL using Apollo, type definition, queries, mutation and their resolvers along with Apollo Sandbox at localhost.
+Practiced GraphQL with Apollo Server, including:
+
+- Type definitions  
+- Queries  
+- Mutations  
+- Resolvers  
+
+Tested everything using Apollo Sandbox at `localhost`.
